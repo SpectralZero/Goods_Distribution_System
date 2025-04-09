@@ -7,18 +7,31 @@ A full-featured, secure, and visually enhanced inventory and distribution manage
 # ScreenShot
 
 - Login
+
 ![Login](assets/Screenshot/Login_Screen.png)
+
 - Main_menu -Darkmode
+
 ![Main_Menu_Screen -Dark](assets/Screenshot/Main_menu_Screen.png)
+
 - Main_menu -lightmode
+
 ![Main_Menu_Screen -light](assets/Screenshot/Main_menu_screen_white.png)
+
 - Main_menu User>>Role
+
 ![Main_menu User](assets/Screenshot/Main_menu-User.png)
+
 - Branch_manager
+
 ![Branch_manager](assets/Screenshot/Branch_Manager.png)
+
 - Statistics_Screen
+
 ![Statistics_Screen](assets/Screenshot/Statistics_Screen.png)
+
 - Charts 
+
 ![Chart](assets/Screenshot/Charts.png)
 ![Chart2](assets/Screenshot/Chart2.png)
 
