@@ -6,11 +6,21 @@ A full-featured, secure, and visually enhanced inventory and distribution manage
 
 # ScreenShot
 
+- Login
 ![Login](assets/Screenshot/Login_Screen.png)
+- Main_menu -Darkmode
 ![Main_Menu_Screen -Dark](assets/Screenshot/Main_menu_Screen.png)
+- Main_menu -lightmode
 ![Main_Menu_Screen -light](assets/Screenshot/Main_menu_screen_white.png)
+- Main_menu User>>Role
+![Main_menu User](assets/Screenshot/Main_menu-User.png)
+- Branch_manager
+![Branch_manager](assets/Screenshot/Branch_Manager.png)
+- Statistics_Screen
 ![Statistics_Screen](assets/Screenshot/Statistics_Screen.png)
+- Charts 
 ![Chart](assets/Screenshot/Charts.png)
+![Chart2](assets/Screenshot/Chart2.png)
 
 
 
@@ -96,7 +106,7 @@ Install dependencies:
     Register a user (e.g., jamal), then use the DB update script to promote to Admin:
 
 # promote_admin.py
-# Sets 'jamal' as an admin with default password 'jamal123'
+# Sets 'jamal' as an admin with default password 'jamal1234'
 
 📌 Notes
 
@@ -110,15 +120,16 @@ Install dependencies:
 
 🧠 Future Enhancements
 
-    PDF export for reports
+- PDF export for reports
 
-    Cloud database support
+- Cloud database support
 
-    Email alerts on low stock
+- Email alerts on low stock
 
-    Activity log viewer
+- Activity log viewer
 
 👨‍💻 Author
 
-Jamal Alqbail
+- Jamal Alqbail
+
 Security & Network Specialist | Python Developer
