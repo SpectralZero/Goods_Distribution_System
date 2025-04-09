@@ -1,0 +1,43 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# SQLite database
+database/goods_system.db
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# Log files
+*.log
+
+
+
+# Python egg metadata
+*.egg-info/
+
+# Backup files
+*.bak
+*.tmp
+
+# Jupyter notebooks (if any)
+.ipynb_checkpoints/
+
+# PyInstaller build folders
+build/
+dist/
+
+# Mac system files
+._*
